@@ -78,7 +78,11 @@ div * {
 }
 
 .grey {
-  background: rgba(128, 128, 128, 0.801);
+  background: #769656;
+}
+
+.white{
+  background: #eeeed2;
 }
 
 .green {
